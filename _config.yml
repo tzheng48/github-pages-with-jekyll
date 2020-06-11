@@ -2,7 +2,6 @@ theme: minima
 title: Tina's Website
 author: Tina Zheng
 email: tzheng6148@gmail.com
-brag sheet: [Brag Sheet Revision 4.pdf](https://github.com/tzheng48/github-pages-with-jekyll/files/4767750/Brag.Sheet.Revision.4.pdf)
 description: > # this means to ignore newlines until "baseurl:"
  Thank you for coming to my website.
 # social links
@@ -10,3 +9,5 @@ instagram_username: tina_nnz # DO NOT include the @ character, or else the build
 github_username:  tzheng48 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+[Brag Sheet Revision 4.pdf](https://github.com/tzheng48/github-pages-with-jekyll/files/4767750/Brag.Sheet.Revision.4.pdf)
